@@ -1,2 +1,2 @@
-my second commit updated
+update README file my second commit 
 
